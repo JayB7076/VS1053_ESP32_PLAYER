@@ -57,7 +57,7 @@ Refer (https://www.instructables.com/Accessing-5-buttons-through-1-Arduino-pin-R
 
 
 -- Remaining Functions and Errors :--
-Fast Forward / Back
-Status Bar
-FLAC Files Do Not Load Intermittently on ESP32. (May be Due to FLAC ID Jumper not used?)
-ESP32 Crashes When Going Back After FLAC Song Fails to Load. (May be Due to FIle names are Cleared?)
+- Fast Forward / Back
+- Status Bar
+- FLAC Files Do Not Load Intermittently on ESP32. (May be Due to FLAC ID Jumper not used?)
+- ESP32 Crashes When Going Back After FLAC Song Fails to Load. (May be Due to FIle names are Cleared From ESP's RAM?)
