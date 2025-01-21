@@ -56,7 +56,7 @@ Refer (https://www.instructables.com/Accessing-5-buttons-through-1-Arduino-pin-R
            |--R100K- BT_1
 
 
--- Remaining Functions and Errors :--
+Remaining Functions and Errors:
 - Fast Forward / Back
 - Status Bar
 - FLAC Files Do Not Load Intermittently on ESP32. (May be Due to FLAC ID Jumper not used?)
