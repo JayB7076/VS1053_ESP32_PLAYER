@@ -45,7 +45,7 @@ OLED CONNECTION TO ESP32
 
 BUTTONS CONNECTION TO ESP32
 Refer (https://www.instructables.com/Accessing-5-buttons-through-1-Arduino-pin-Revisi/)
-(in my case an 5 Tactile Switch with Additional Button)
+(in my case an 5 Tactile Switch with Additional Button in Series With Resistors.)
 
       ESP32 -- TO -- SWITCH
            |--R82K--  UP
