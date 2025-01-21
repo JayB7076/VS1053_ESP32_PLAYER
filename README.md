@@ -24,7 +24,7 @@ Wire for 128/64 OLED Display communication
 
 Pin Connection :- (For Custom Pin Configuration Please refer ESP32's Datasheet)
 
------ VS1053 CONNECTION TO ESP32 ----
+VS1053 CONNECTION TO ESP32
 
       ESP32 -- TO -- VS1053
        D18  --------  CLK
@@ -37,13 +37,13 @@ Pin Connection :- (For Custom Pin Configuration Please refer ESP32's Datasheet)
        D4   --------  SD_CARD_CS
 
 
----- OLED CONNECTION TO ESP32 ----
+OLED CONNECTION TO ESP32
 
       ESP32 -- TO -- OLED
        D21  --------  OLED_SDA
        D22  --------  OLED_SCL
 
----- BUTTONS CONNECTION TO ESP32 ---- 
+BUTTONS CONNECTION TO ESP32
 Refer (https://www.instructables.com/Accessing-5-buttons-through-1-Arduino-pin-Revisi/)
 (in my case an 5 Tactile Switch with Additional Button)
 
@@ -56,7 +56,7 @@ Refer (https://www.instructables.com/Accessing-5-buttons-through-1-Arduino-pin-R
            |--R100K- BT_1
 
 
----- Remaining Functions and Errors ----
+-- Remaining Functions and Errors :--
 Fast Forward / Back
 Status Bar
 FLAC Files Do Not Load Intermittently on ESP32. (May be Due to FLAC ID Jumper not used?)
